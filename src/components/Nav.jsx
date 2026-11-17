@@ -28,7 +28,7 @@ export default function Nav() {
           className="text-lg tracking-tight font-display text-[var(--ink)] hover:text-[var(--accent)] transition-colors flex items-center gap-1.5 shrink-0"
           aria-label="K. Galla, back to hero"
         >
-          <span>K. Galla</span>
+          <span>✦ Koushik Galla</span>
           <span className="w-1.5 h-1.5 rounded-full bg-[var(--accent)] inline-block"></span>
         </a>
 
